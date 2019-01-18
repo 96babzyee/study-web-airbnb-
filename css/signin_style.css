@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #484848;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+form {
+    width: 560px;
+    height: 560px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px 0; 
+    font-size: 13px;
+    }
+
+.icon_x {
+    width: 16px;
+    height: 16px;
+    padding: 0 0 5px 5px;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+
+a {
+   text-decoration: none;
+   color: #00a699;
+}
+
+.text_b {
+    font-weight: bold;
+}
+
+input {
+   width: 500px;
+   height: 50px;
+   border: 1px solid #767676;
+   font-size: 14px;
+}
+
+input.email {
+    background-image: url("https://3.bp.blogspot.com/-OKs7Y5RSc9w/U4K11KCuM0I/AAAAAAAAALQ/5ozidulwlOM/s1600/icon-letter-mail.png");
+    background-repeat: no-repeat;
+    background-size: 18px 17px;
+    background-position: 460px 17px;
+}
+
+input.pw {
+    background-image: url("https://cdn.icon-icons.com/icons2/1302/PNG/512/blockedpadlock_85757.png");
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+    background-position: 460px 17px;
+}
+
+.td_pd {
+    padding: 5px 0;
+}
+
+.check{
+    width: 18px;
+    height: 18px;
+}
+
+.facebook {
+    height: 45px;
+    background-color:#3b5998;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 7px;
+    border: none;
+    border-radius: 5px;
+    background-image: url("http://mblogthumb4.phinf.naver.net/20140122_187/psy0707_13903661103132GoiQ_PNG/FB-f-Logo__blue_1024.png?type=w2");
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+    background-position: 133px 8px;
+}
+
+.google {
+    height: 45px;
+    background-color:white;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 7px;
+    border: 2px solid #767676;
+    border-radius: 5px;
+    background-image: url("http://www.sclance.com/pngs/google-+-logo-png/google_+_logo_png_592082.jpg");
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: 152px 10px;
+}
+
+.login {
+    background-color:#ff6a6f;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 7px;
+    border: none;
+    border-radius: 5px;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+div {
+    margin: 0 5px;
+}
